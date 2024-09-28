@@ -51,7 +51,9 @@ The project includes functions to visualize:
 An option for loading Pre-trained weights is available and can be loaded using the `load_with_pretrained_weights` function.
 
 ## 🧠 Challenges for Participants
-This project contains several issues that participants are challenged to identify and fix. These issues range from data preprocessing to model architecture and training process. Participants should carefully review the code, run it, and improve its performance. By working on these challenges, you'll also enhance your machine learning skills on the way.😄
+This project contains several issues that participants are challenged to identify and fix. These issues range from data preprocessing to model architecture and training process. Participants should carefully review the code, run it, and improve its performance. By working on these challenges, you'll also enhance your deep learning skills on the way.😄
 
+
+**NOTE:** This repository is supposed to be run on [colab](colab.google) using the github integration of colab (use [this](https://saturncloud.io/blog/how-can-i-run-notebooks-of-a-github-project-in-google-colab/) as a reference and use `File -> Save a copy in github` to push your code). If you think your laptop has enough GPU power (i.e., >=Tesla T4 GPU), you are free to use your laptop (compare using [this](https://technical.city/en/video)).
 
 Good luck, and happy coding! 🚀🐍
