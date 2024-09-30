@@ -1,0 +1,27 @@
+*.ipynb_checkpoints# Ignore virtual environment
+/venv
+
+# Ignore data directories
+/data
+/Data/
+/data/test/
+/data/train/
+/data/valid/
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter notebook metadata
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment configuration files
+.env
